@@ -1,0 +1,7 @@
+*.class
+/build/
+/.metadata/
+.settings/
+*.log
+.env
+.env.*
